@@ -1,6 +1,6 @@
 # vue-firestore
 
-> A Vue.js project
+> Este proyecto es una tienda online E-commers venta de productos usando Firestore y Vuetify
 
 ## Build Setup
 
